@@ -1,0 +1,32 @@
+
+
+button {
+    background-color: lightpink;
+    border: solid black;
+    border-radius: 0.5rem;
+    color: #35393c;
+    padding: 0.8rem;
+    text-align: center;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #e0a701;
+}
+
+.para {
+    background-color: #d5d8d9;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    color: #35393c;
+}
+
+p {
+    padding: 1rem;
+}
+
+.wob {
+    color: white;
+    background-color: black;
+}
